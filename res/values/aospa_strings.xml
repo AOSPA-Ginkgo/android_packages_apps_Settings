@@ -245,4 +245,8 @@
     <string name="gesture_power_button_category_title">Power button</string>
     <string name="gesture_volume_buttons_category_title">Volume buttons</string>
 
+    <!-- Black theme -->
+    <string name="system_black_theme_title">Use Black theme</string>
+    <string name="system_black_theme_summary">Force black background colors</string>
+
 </resources>
