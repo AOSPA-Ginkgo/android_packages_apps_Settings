@@ -239,4 +239,10 @@
     <string name="global_actions_advanced_reboot_title">Advanced restart</string>
     <string name="global_actions_advanced_reboot_summary">Show options for recovery and bootloader in power menu</string>
 
+    <!-- Gesture settings categories -->
+    <string name="gesture_navigation_category_title">Navigation</string>
+    <string name="gesture_screen_category_title">Screen</string>
+    <string name="gesture_power_button_category_title">Power button</string>
+    <string name="gesture_volume_buttons_category_title">Volume buttons</string>
+
 </resources>
