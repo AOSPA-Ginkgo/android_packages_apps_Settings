@@ -234,5 +234,12 @@
             android:key="enable_blurs_on_windows"
             android:title="@string/enable_blurs_on_windows_title"
             android:summary="@string/enable_blurs_on_windows_summary" />
+        
+        <co.aospa.framework.preference.SecureSettingSwitchPreference
+               android:key="window_ignore_secure"
+               android:title="@string/ignore_window_secure_title"
+               android:summary="@string/ignore_window_secure_summary"
+               android:defaultValue="false"/>
+
     </PreferenceCategory>
 </PreferenceScreen>
